@@ -12,7 +12,7 @@ I am Agnes from Hungary. Self-learner, career changer, front-end developer (to b
  - Git
  - Visual Studio
 
-
+![alt text](http://url/to/img.png)(https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ## Languages
 
 >Hungarian 
@@ -25,7 +25,7 @@ I am Agnes from Hungary. Self-learner, career changer, front-end developer (to b
 - 🌱 I’m currently learning Frontend development at Front-end Foxes and Scrimba. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/agnesnora)  
+  
 
 
 

@@ -10,7 +10,7 @@ Responsive design
 
 ## Languages
 
-Hungarian Flag: Hungary 
+Google (Android 12L) Flag: Hungary 
 English Flag: United Kingdom C1
 Spanish Flag:Spain B2
 

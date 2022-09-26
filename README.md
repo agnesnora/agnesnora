@@ -1,14 +1,19 @@
-### Hi there 👋
-
-I am Agnes from Hungary. Self-learner, career changer, front-end developer (to be). Since the day of stepping in the world of coding I can't stop studying, and training myself. I am currently doing a Front-end carrer path on www.scrimba.com and I am also a student of the web developer bootcamp of Front-end Foxes :fox_face:. 
-
 
 ### Hi there 👋, I am Ágnes Kuti-Palásthy.
-#### Frontend developer (to be)
+#### Frontend developer (to-be)
 I am Agnes from Hungary. Self-learner, career changer, front-end developer (to be). Since the day of stepping in the world of coding I can't stop studying, and training myself. I am currently doing a Front-end carrer path on www.scrimba.com and I am also a student of the web developer bootcamp of Front-end Foxes :fox_face:. 
 
+## Skills
 
-Skills: HTML / CSS / JS
+💻 HTML, CSS, JS
+Responsive design
+
+## Languages
+
+Hungarian Flag: Hungary 
+English Flag: United Kingdom C1
+Spanish Flag:Spain B2
+
 
 - 🌱 I’m currently learning Frontend development at Front-end Foxes and Scrimba. 
 
@@ -17,5 +22,5 @@ Skills: HTML / CSS / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnesnora)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesnora&show_icons=true)  
+ 
 

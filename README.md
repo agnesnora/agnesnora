@@ -10,9 +10,11 @@ Responsive design
 
 ## Languages
 
-Google (Android 12L) Flag: Hungary 
-English Flag: United Kingdom C1
-Spanish Flag:Spain B2
+> Hungarian 
+>
+>English C1
+>
+>Spanish B2
 
 
 - 🌱 I’m currently learning Frontend development at Front-end Foxes and Scrimba. 
@@ -20,7 +22,7 @@ Spanish Flag:Spain B2
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/agnesnora)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnesnora)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 

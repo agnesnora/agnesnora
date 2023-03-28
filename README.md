@@ -4,7 +4,7 @@
 ### Frontend developer
 >
 
-I am Agnes from Hungary. Self-learner, career changer, front-end developer (to-be). Since the day of stepping in the world of coding I can't stop studying, and training myself. I am currently doing a Front-end carrer path at www.scrimba.com and I am also a student of the Web developer bootcamp of Front-end Foxes :fox_face:.
+I am Agnes from Hungary. Self-learner, career changer, frontend developer (to-be). Since the day of stepping in the world of coding I can't stop studying, and training myself. I am currently doing a Front-end carrer path at www.scrimba.com and I am also a student of the Web developer bootcamp of Front-end Foxes :fox_face:.
 
 :herb: :evergreen_tree: :deciduous_tree: I graduated as a landscape architect
 
